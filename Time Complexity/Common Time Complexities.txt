@@ -15,7 +15,7 @@ Eg : addTwoNumbers(int a, int b){
 2.LINEAR TIME COMPLEXITY : 
 --------------------------
 
---> The time will gro linearly with increase in size.
+--> The time will grow linearly with increase in size.
 --> Time Complexity = 0(N)
 
 Eg : printArraySum(int[] arr){
