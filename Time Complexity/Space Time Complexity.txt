@@ -1,0 +1,6 @@
+Space Complexity : 
+------------------
+
+1. The amount of memory the program needs to execute.
+2. We don't use any metrics such as bits , bytes etc..to determine space complexity.
+3. Instead we define it as amount of space required based on input size.
