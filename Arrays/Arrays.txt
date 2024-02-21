@@ -1,0 +1,21 @@
+Arrays : 
+--------
+
+1. A group of homogeneous elements with fixed size.
+2. Memory location is continous in an array.
+3. Indexing starts from "0" to "size -1".
+ 
+Declaration:
+-------------
+
+Syntax : data_type variableName = new data_type[size] ;
+
+Eg : int[] i = new int[5];
+
+     //Each integer takes 4 bytes of memory.
+     //Here we have created an array of size 5. So, in heap 4x5 = 20 bytes of     continous memory is created.  
+
+     long[] l = new long[3];
+
+     //Each long takes 8 bytes of memory.
+     //Here we have created an array of size 5. So, in heap 8x5 = 40 bytes of     continous memory is created.
