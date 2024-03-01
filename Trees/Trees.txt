@@ -36,3 +36,18 @@ Terminologies of Tree Data structure :
 7. Sibling -> Immediate child nodes of a same node
 8. Descendant -> all the nodes that are in the below level from that particular node till the leaf nodes.
 9. Ancestor -> all the nodes that are in the above level from that particular node till the root nodes.
+
+Different types of trees:
+-------------------------
+
+Binary Tree:
+------------
+A tree in which each node can have at most 2 child(left,right).
+
+Binary Search Tree:
+-------------------
+A Binary Tree in which each left subtree contains smaller values, right subtree contains greater values compared with root node value of the subtree.
+
+Balanced Binary Tree:
+---------------------
+A Binary tree in which the height difference between the left sub tree and right sub tree is not more than 1.
