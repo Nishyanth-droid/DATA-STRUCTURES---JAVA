@@ -23,3 +23,16 @@ Common functionalities on Tree data structure :
        i) Inorder traversal
        ii) Pre Order traversal 
        iii) Post Order traversal 
+
+Terminologies of Tree Data structure :
+--------------------------------------
+
+1. Root Node
+2. Subtree
+3. Parent Node
+4. Child Node
+5. Leaf Node -> nodes without any child nodes
+6. Level
+7. Sibling -> Immediate child nodes of a same node
+8. Descendant -> all the nodes that are in the below level from that particular node till the leaf nodes.
+9. Ancestor -> all the nodes that are in the above level from that particular node till the root nodes.
