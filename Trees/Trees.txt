@@ -1,0 +1,25 @@
+Trees :
+--------
+
+-> Tree is a hierarchical data structure which is a collection of nodes where each and every node consists value and references of multiple child nodes.
+
+Eg : Folder structures , Employee designations in an organisation
+
+-> Trees can have heterogeneous data
+
+-> Tree allows duplicates if required.
+
+-> We can insert null / None values
+
+-> Trees need not preservev the insertion order.
+
+Common functionalities on Tree data structure :
+-----------------------------------------------
+1. insert
+2. remove
+3. traversals
+   --> Breadth First Traversal
+   --> Depth First Traversal
+       i) Inorder traversal
+       ii) Pre Order traversal 
+       iii) Post Order traversal 
